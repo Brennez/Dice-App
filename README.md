@@ -4,7 +4,7 @@ Desafio proposto durante a disciplina de Programação IV
 
 ## Tecnologias
 
-= Dart
+- Dart
 
 - Flutter
 
