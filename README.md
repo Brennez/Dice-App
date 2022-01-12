@@ -10,4 +10,6 @@ Desafio proposto durante a disciplina de Programação IV
 
 ## ScreenShots
 
-![Dark Mode ativado](assets/images/DiceAppDarkMode.png) ![Tela do app](assets/images/DiceAppWithoutDarkModepng.png)
+| Com dark mode                          | Sem dark mode                                               |
+| -------------------------------------- | ----------------------------------------------------------- |
+| ![](assets/images/DiceAppDarkMode.png) | ![Tela do app](assets/images/DiceAppWithoutDarkModepng.png) |
